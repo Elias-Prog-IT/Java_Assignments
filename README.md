@@ -1,2 +1,2 @@
 # Java Assignments
-This is a repository for all the java assignments I have done, through different Universities, and freestanding courses.
+This repository is for all the java assignments that I have done through different Universities and freestanding courses.
